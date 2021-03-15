@@ -1,0 +1,18 @@
+  visual encodings
+	index chart
+	horizon graphs
+  Mechanical Turk 
+	brushing-and-linking
+	depiction
+	ill-fated
+	Dorling cartogram
+	phylogenetic
+	polar coordinates
+	dampened
+	q-q plots
+	parallel coordinates
+	flow maps
+	choropleth maps
+	graduated symbol maps
+	dendrogram
+	adjacency diagram
